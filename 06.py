@@ -1,3 +1,8 @@
+#we have: a zip file(channel.zip): http://www.pythonchallenge.com/pc/def/channel.zip
+#           We need to extract and do the same thing like in the url "nothing" level(4)
+#           but instead of reaching to the last nothing and see the result, it tells to collect the coments
+#           this prints HOCKEY word (but made with the characters OXYGEN)
+#Solution: OXYGEN
 
 import sys
 import re

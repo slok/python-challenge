@@ -1,3 +1,7 @@
+#We have: 2 list of numbers, we do a 1 list with both an then pick in pairs
+#           the pairs are pixels, if we draw we obtain a cow image
+#Solution: bull
+
 import sys
 import Image
 

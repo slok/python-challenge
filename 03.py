@@ -1,4 +1,8 @@
 
+#we have: a bunch of characters, and we need a pattern to select:
+#        [CAPITAL][CAPITAL][CAPITAL][lower][CAPITAL][CAPITAL][CAPITAL]
+#Solution: linkedlist (the lower case of all the result pattern is the word)
+
 import re
 
 inStr = """kAewtloYgcFQaJNhHVGxXDiQmzjfcpYbzxlWrVcqsmUbCunkfxZWDZjUZMiGqhRRiUvGmYmvnJIHEmbT

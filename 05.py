@@ -1,3 +1,8 @@
+#we have: peak hell (pronaunced: pickel)
+#           We unpicle banner.p (unmarshalling/serialization) and then we print a
+#           banner (like unix style: http://en.wikipedia.org/wiki/Banner_%28Unix%29)
+#solution: channel
+
 import sys
 import pickle
 import urllib2

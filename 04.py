@@ -1,6 +1,9 @@
 import urllib2
 import re
 
+#We have: a link (http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=12345)
+#           We need to get the number and  create a new URL until we reach to the final "nothing"
+#Solution: peak.html
 
 url = 'http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing='
 #nothing = '12345'

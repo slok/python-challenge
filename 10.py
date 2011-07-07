@@ -1,6 +1,9 @@
 #Look-and-say sequence -> http://en.wikipedia.org/wiki/Look-and-say_sequence
 #python-challenge(http://www.pythonchallenge.com/) level 10
-#a = [1, 11, 21, 1211, 111221,
+
+#We have: a = [1, 11, 21, 1211, 111221, . This is Look and say sequence
+#           then also we have len(a[30]), so the size number 30 of the sequence is the solution
+#solution: 5808
 a = ['1']
 maxNum  = 31
 

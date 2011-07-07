@@ -1,3 +1,8 @@
+#we have: an image that has a grid of pixels in the front layer
+#           if we get the pixels that are "black" and then draw in an other image
+#           we get the word evil
+#Solution: evil
+
 import Image
 imgPath = '/home/slok/python-challenge/data/cave.jpg'
 

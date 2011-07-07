@@ -1,3 +1,6 @@
+# we have: some characters (puser/password), hint: inflate
+#          we uncompress using bz2 lib (deflate)
+#Solution: huge/file
 
 import bz2
 

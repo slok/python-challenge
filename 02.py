@@ -1,3 +1,6 @@
+#we have: bunch of letters
+#       we need to get the letters that only appear 1 time, but they are shuffled, so we need to do a word
+#Solution: equality
  
 inStr = """%%$@_$^__#)^)&!_+]!*@&^}@[@%]()%+$&[(_@%+%$*^@$^!+]!&_#)_*}{}}!}_]$[%}@[{_@#_^{*
 @##&{#&{&)*%(]{{([*}@[@&]+!!*{)!}{%+{))])[!^})+)$]#{*+^((@^@}$[**$&^{$!@#$%)!@(&
